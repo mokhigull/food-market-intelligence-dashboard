@@ -43,8 +43,10 @@ Selected for regional diversity — spanning South America, North Africa, South 
 
 ├── data/
 │ └── faostat_food_cpi_2015-2025.csv
+
 ├── docs/
 │ └── Page 1 - Food Prices and Inflation, screenshot.jpg
+
 └── README.md
 
 
