@@ -40,17 +40,11 @@ Selected for regional diversity — spanning South America, North Africa, South 
 ## Repository Structure
 
 ├── FAO Food Market Insights.pbix
-
 ├── data/
-│ 
-   └── faostat_food_cpi_2015-2025.csv
-
+│   └── faostat_food_cpi_2015-2025.csv
 ├── docs/
-│ 
-   └── Page 1 - Food Prices and Inflation, screenshot.jpg
-
+│   └── Page 1 - Food Prices and Inflation, screenshot.jpg
 └── README.md
-
 
 ## Project Status
 
