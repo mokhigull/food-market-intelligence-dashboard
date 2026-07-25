@@ -1,4 +1,4 @@
-# food-market-intelligence-dashboard
+# Food Market Intelligence Dashboard
 
 An interactive Power BI dashboard turning public FAO food market data into policy-relevant insights on food prices, production, trade dependency, and food security.
 
