@@ -59,7 +59,3 @@ The `.pbix` file requires [Power BI Desktop](https://www.microsoft.com/en-us/dow
 ## Author
 
 Built by Mohigul for the FAO eLearning Academy Global Youth Contest 2026.
-
-## Author
-
-Built by Mohigul for the FAO eLearning Academy Global Youth Contest 2026.
