@@ -11,12 +11,15 @@ As a computer science student from Uzbekistan with an interest in AI and data an
 ## Dashboard Pages & Course Connection
 
 **Page 1 — Food Price Trends & Inflation**
+![Page 1](docs/page1_food_prices.png)
 Tracks food CPI (2015–2025) and current inflation ranking across 9 countries. Connects to the course's *market information systems* lever: countries with the most volatile price swings are where reliable price and demand signals matter most for helping farmers and traders adapt to shocks.
 
 **Page 2 — Wheat Production & Trade**
+![Page 2](docs/page2_wheat_trade.png)
 Compares production and import dependency for a staple crop. Connects to the *infrastructure* lever: high import-dependent countries carry the most exposure to global supply shocks, and post-harvest infrastructure (storage, logistics) is the lever for absorbing that volatility rather than passing it to consumers.
 
 **Page 3 — Food Security Outcomes**
+![Page 3](docs/page3_food_security.png)
 Tracks undernourishment, child stunting, and cereal import dependency together. Connects to the course's point that levers must work in combination — countries with both high import dependency and rising undernourishment need coordinated infrastructure, governance, and finance interventions, not a single fix in isolation.
 
 ## Countries Covered
@@ -28,8 +31,11 @@ Selected for regional and income diversity — spanning net food exporters and i
 ## Data Sources
 
 - [FAOSTAT Consumer Price Indices](https://www.fao.org/faostat/en/#data/CP) — Food CPI and inflation, 2015–2025
-- [FAOSTAT Trade & Production (TCL)](https://www.fao.org/faostat/en/#data/TCL) — Wheat production and import volumes, 2024
+  → `data/faostat_food_cpi_2015-2025.csv`
+- [FAOSTAT Trade & Production (TCL)](https://www.fao.org/faostat/en/#data/TCL) — Wheat production and trade
+  → `data/WheatProduction_Clean.csv`, `data/WheatTrade_Clean_Long.csv`
 - [FAOSTAT Food Security (FS)](https://www.fao.org/faostat/en/#data/FS) — Undernourishment, stunting, cereal import dependency
+  → `data/undernourishment_clean.csv`, `data/stunted_children_clean.csv`, `data/cereal_import_dependency_clean.csv`
 
 ## Tech Used
 
@@ -42,12 +48,15 @@ Selected for regional and income diversity — spanning net food exporters and i
 ├── FAO Food Market Insights.pbix
 ├── data/
 │   ├── faostat_food_cpi_2015-2025.csv
-│   ├── faostat_wheat_production_trade_2024.csv
-│   └── faostat_food_security_2015-2025.csv
+│   ├── WheatProduction_Clean.csv
+│   ├── WheatTrade_Clean_Long.csv
+│   ├── undernourishment_clean.csv
+│   ├── stunted_children_clean.csv
+│   └── cereal_import_dependency_clean.csv
 ├── docs/
-│   ├── page1_food_prices.jpg
-│   ├── page2_wheat_trade.jpg
-│   └── page3_food_security.jpg
+│   ├── page1_food_prices.png
+│   ├── page2_wheat_trade.png
+│   └── page3_food_security.png
 └── README.md
 
 ## Project Status
