@@ -6,7 +6,7 @@ An interactive Power BI dashboard turning public FAO food market data into polic
 
 Built as part of the FAO eLearning Academy Global Youth Contest 2026, this project applies concepts from the FAO course "Strengthening Wholesale Markets in Low- and Middle-Income Countries" to a real, working data tool. The course outlines four levers for strengthening wholesale markets — infrastructure, market information systems, governance, and finance/capacity building. This dashboard focuses on making the *outcomes* those levers are meant to influence (price stability, trade dependency, food security) visible and comparable across countries, as a starting point for identifying where intervention matters most.
 
-As a computer science student from Uzbekistan with an interest in AI and data analytics, I wanted to explore how technology can make food system data more accessible for decision-making — even without direct access to market-level infrastructure or governance data.
+As an Economics with Data Science student from Uzbekistan with an interest in AI and data analytics, I wanted to explore how technology can make food system data more accessible for decision-making.
 
 ## Dashboard Pages & Course Connection
 
