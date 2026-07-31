@@ -1,0 +1,81 @@
+Area,ISO3,Year_Label,Year_Start,Year_End,Stunted_Children_Under5_Pct,Unit,Data_Quality
+Brazil,BRA,2015,2015,2015,6.9,%,Value from external organization
+Brazil,BRA,2016,2016,2016,7.1,%,Value from external organization
+Brazil,BRA,2017,2017,2017,7.3,%,Value from external organization
+Brazil,BRA,2018,2018,2018,7.5,%,Value from external organization
+Brazil,BRA,2019,2019,2019,7.7,%,Value from external organization
+Brazil,BRA,2020,2020,2020,8.0,%,Value from external organization
+Brazil,BRA,2021,2021,2021,8.2,%,Value from external organization
+Brazil,BRA,2022,2022,2022,8.5,%,Value from external organization
+Brazil,BRA,2023,2023,2023,8.7,%,Value from external organization
+Brazil,BRA,2024,2024,2024,8.9,%,Value from external organization
+Egypt,EGY,2015,2015,2015,19.2,%,Value from external organization
+Egypt,EGY,2016,2016,2016,18.1,%,Value from external organization
+Egypt,EGY,2017,2017,2017,17.1,%,Value from external organization
+Egypt,EGY,2018,2018,2018,16.1,%,Value from external organization
+Egypt,EGY,2019,2019,2019,15.2,%,Value from external organization
+Egypt,EGY,2020,2020,2020,14.4,%,Value from external organization
+Egypt,EGY,2021,2021,2021,13.7,%,Value from external organization
+Egypt,EGY,2022,2022,2022,13.4,%,Value from external organization
+Egypt,EGY,2023,2023,2023,13.1,%,Value from external organization
+Egypt,EGY,2024,2024,2024,12.9,%,Value from external organization
+India,IND,2015,2015,2015,38.7,%,Value from external organization
+India,IND,2016,2016,2016,37.7,%,Value from external organization
+India,IND,2017,2017,2017,36.6,%,Value from external organization
+India,IND,2018,2018,2018,35.6,%,Value from external organization
+India,IND,2019,2019,2019,34.6,%,Value from external organization
+India,IND,2020,2020,2020,33.8,%,Value from external organization
+India,IND,2021,2021,2021,33.3,%,Value from external organization
+India,IND,2022,2022,2022,33.0,%,Value from external organization
+India,IND,2023,2023,2023,32.8,%,Value from external organization
+India,IND,2024,2024,2024,32.9,%,Value from external organization
+Kenya,KEN,2015,2015,2015,25.4,%,Value from external organization
+Kenya,KEN,2016,2016,2016,24.3,%,Value from external organization
+Kenya,KEN,2017,2017,2017,23.1,%,Value from external organization
+Kenya,KEN,2018,2018,2018,22.0,%,Value from external organization
+Kenya,KEN,2019,2019,2019,20.9,%,Value from external organization
+Kenya,KEN,2020,2020,2020,20.0,%,Value from external organization
+Kenya,KEN,2021,2021,2021,19.2,%,Value from external organization
+Kenya,KEN,2022,2022,2022,18.7,%,Value from external organization
+Kenya,KEN,2023,2023,2023,18.2,%,Value from external organization
+Kenya,KEN,2024,2024,2024,17.9,%,Value from external organization
+Nigeria,NGA,2015,2015,2015,35.8,%,Value from external organization
+Nigeria,NGA,2016,2016,2016,35.4,%,Value from external organization
+Nigeria,NGA,2017,2017,2017,34.9,%,Value from external organization
+Nigeria,NGA,2018,2018,2018,34.4,%,Value from external organization
+Nigeria,NGA,2019,2019,2019,33.9,%,Value from external organization
+Nigeria,NGA,2020,2020,2020,33.5,%,Value from external organization
+Nigeria,NGA,2021,2021,2021,33.4,%,Value from external organization
+Nigeria,NGA,2022,2022,2022,33.5,%,Value from external organization
+Nigeria,NGA,2023,2023,2023,33.6,%,Value from external organization
+Nigeria,NGA,2024,2024,2024,33.8,%,Value from external organization
+United States of America,USA,2015,2015,2015,2.8,%,Value from external organization
+United States of America,USA,2016,2016,2016,2.9,%,Value from external organization
+United States of America,USA,2017,2017,2017,3.0,%,Value from external organization
+United States of America,USA,2018,2018,2018,3.1,%,Value from external organization
+United States of America,USA,2019,2019,2019,3.2,%,Value from external organization
+United States of America,USA,2020,2020,2020,3.4,%,Value from external organization
+United States of America,USA,2021,2021,2021,3.6,%,Value from external organization
+United States of America,USA,2022,2022,2022,3.8,%,Value from external organization
+United States of America,USA,2023,2023,2023,4.0,%,Value from external organization
+United States of America,USA,2024,2024,2024,4.2,%,Value from external organization
+Uzbekistan,UZB,2015,2015,2015,10.7,%,Value from external organization
+Uzbekistan,UZB,2016,2016,2016,10.0,%,Value from external organization
+Uzbekistan,UZB,2017,2017,2017,9.3,%,Value from external organization
+Uzbekistan,UZB,2018,2018,2018,8.7,%,Value from external organization
+Uzbekistan,UZB,2019,2019,2019,8.2,%,Value from external organization
+Uzbekistan,UZB,2020,2020,2020,7.7,%,Value from external organization
+Uzbekistan,UZB,2021,2021,2021,7.4,%,Value from external organization
+Uzbekistan,UZB,2022,2022,2022,7.1,%,Value from external organization
+Uzbekistan,UZB,2023,2023,2023,6.9,%,Value from external organization
+Uzbekistan,UZB,2024,2024,2024,6.7,%,Value from external organization
+Vietnam,VNM,2015,2015,2015,23.5,%,Value from external organization
+Vietnam,VNM,2016,2016,2016,22.8,%,Value from external organization
+Vietnam,VNM,2017,2017,2017,22.1,%,Value from external organization
+Vietnam,VNM,2018,2018,2018,21.5,%,Value from external organization
+Vietnam,VNM,2019,2019,2019,20.7,%,Value from external organization
+Vietnam,VNM,2020,2020,2020,20.3,%,Value from external organization
+Vietnam,VNM,2021,2021,2021,20.0,%,Value from external organization
+Vietnam,VNM,2022,2022,2022,19.9,%,Value from external organization
+Vietnam,VNM,2023,2023,2023,19.7,%,Value from external organization
+Vietnam,VNM,2024,2024,2024,19.2,%,Value from external organization

@@ -1,0 +1,73 @@
+Area,ISO3,Year_Label,Year_Start,Year_End,Is_Multi_Year_Average,Cereal_Import_Dependency_Ratio_Pct,Unit,Data_Quality
+Brazil,BRA,2014-2016,2014,2016,True,-20.2,%,Estimated value
+Brazil,BRA,2015-2017,2015,2017,True,-22.0,%,Estimated value
+Brazil,BRA,2016-2018,2016,2018,True,-17.1,%,Estimated value
+Brazil,BRA,2017-2019,2017,2019,True,-25.6,%,Estimated value
+Brazil,BRA,2018-2020,2018,2020,True,-27.7,%,Estimated value
+Brazil,BRA,2019-2021,2019,2021,True,-24.6,%,Estimated value
+Brazil,BRA,2020-2022,2020,2022,True,-23.8,%,Estimated value
+Brazil,BRA,2021-2023,2021,2023,True,-30.9,%,Estimated value
+Egypt,EGY,2014-2016,2014,2016,True,45.9,%,Estimated value
+Egypt,EGY,2015-2017,2015,2017,True,47.0,%,Estimated value
+Egypt,EGY,2016-2018,2016,2018,True,51.1,%,Estimated value
+Egypt,EGY,2017-2019,2017,2019,True,50.8,%,Estimated value
+Egypt,EGY,2018-2020,2018,2020,True,49.7,%,Estimated value
+Egypt,EGY,2019-2021,2019,2021,True,44.0,%,Estimated value
+Egypt,EGY,2020-2022,2020,2022,True,43.4,%,Estimated value
+Egypt,EGY,2021-2023,2021,2023,True,42.8,%,Estimated value
+India,IND,2014-2016,2014,2016,True,-7.3,%,Estimated value
+India,IND,2015-2017,2015,2017,True,-5.5,%,Estimated value
+India,IND,2016-2018,2016,2018,True,-5.2,%,Estimated value
+India,IND,2017-2019,2017,2019,True,-5.1,%,Estimated value
+India,IND,2018-2020,2018,2020,True,-6.2,%,Estimated value
+India,IND,2019-2021,2019,2021,True,-8.8,%,Estimated value
+India,IND,2020-2022,2020,2022,True,-12.2,%,Estimated value
+India,IND,2021-2023,2021,2023,True,-12.4,%,Estimated value
+Italy,ITA,2014-2016,2014,2016,True,34.3,%,Estimated value
+Italy,ITA,2015-2017,2015,2017,True,36.4,%,Estimated value
+Italy,ITA,2016-2018,2016,2018,True,39.0,%,Estimated value
+Italy,ITA,2017-2019,2017,2019,True,41.4,%,Estimated value
+Italy,ITA,2018-2020,2018,2020,True,41.2,%,Estimated value
+Italy,ITA,2019-2021,2019,2021,True,39.8,%,Estimated value
+Italy,ITA,2020-2022,2020,2022,True,41.4,%,Estimated value
+Italy,ITA,2021-2023,2021,2023,True,42.5,%,Estimated value
+Kenya,KEN,2014-2016,2014,2016,True,48.3,%,Estimated value
+Kenya,KEN,2015-2017,2015,2017,True,51.9,%,Estimated value
+Kenya,KEN,2016-2018,2016,2018,True,50.9,%,Estimated value
+Kenya,KEN,2017-2019,2017,2019,True,48.2,%,Estimated value
+Kenya,KEN,2018-2020,2018,2020,True,43.7,%,Estimated value
+Kenya,KEN,2019-2021,2019,2021,True,47.8,%,Estimated value
+Kenya,KEN,2020-2022,2020,2022,True,49.9,%,Estimated value
+Kenya,KEN,2021-2023,2021,2023,True,49.5,%,Estimated value
+Nigeria,NGA,2014-2016,2014,2016,True,18.5,%,Estimated value
+Nigeria,NGA,2015-2017,2015,2017,True,17.7,%,Estimated value
+Nigeria,NGA,2016-2018,2016,2018,True,16.5,%,Estimated value
+Nigeria,NGA,2017-2019,2017,2019,True,17.4,%,Estimated value
+Nigeria,NGA,2018-2020,2018,2020,True,16.9,%,Estimated value
+Nigeria,NGA,2019-2021,2019,2021,True,17.8,%,Estimated value
+Nigeria,NGA,2020-2022,2020,2022,True,17.0,%,Estimated value
+Nigeria,NGA,2021-2023,2021,2023,True,16.3,%,Estimated value
+United States of America,USA,2014-2016,2014,2016,True,-18.8,%,Estimated value
+United States of America,USA,2015-2017,2015,2017,True,-19.7,%,Estimated value
+United States of America,USA,2016-2018,2016,2018,True,-21.6,%,Estimated value
+United States of America,USA,2017-2019,2017,2019,True,-21.6,%,Estimated value
+United States of America,USA,2018-2020,2018,2020,True,-21.6,%,Estimated value
+United States of America,USA,2019-2021,2019,2021,True,-22.0,%,Estimated value
+United States of America,USA,2020-2022,2020,2022,True,-23.5,%,Estimated value
+United States of America,USA,2021-2023,2021,2023,True,-20.3,%,Estimated value
+Uzbekistan,UZB,2014-2016,2014,2016,True,25.2,%,Estimated value
+Uzbekistan,UZB,2015-2017,2015,2017,True,25.6,%,Estimated value
+Uzbekistan,UZB,2016-2018,2016,2018,True,31.8,%,Estimated value
+Uzbekistan,UZB,2017-2019,2017,2019,True,33.2,%,Estimated value
+Uzbekistan,UZB,2018-2020,2018,2020,True,34.1,%,Estimated value
+Uzbekistan,UZB,2019-2021,2019,2021,True,28.5,%,Estimated value
+Uzbekistan,UZB,2020-2022,2020,2022,True,27.7,%,Estimated value
+Uzbekistan,UZB,2021-2023,2021,2023,True,28.0,%,Estimated value
+Vietnam,VNM,2014-2016,2014,2016,True,5.2,%,Estimated value
+Vietnam,VNM,2015-2017,2015,2017,True,9.1,%,Estimated value
+Vietnam,VNM,2016-2018,2016,2018,True,12.4,%,Estimated value
+Vietnam,VNM,2017-2019,2017,2019,True,11.9,%,Estimated value
+Vietnam,VNM,2018-2020,2018,2020,True,14.0,%,Estimated value
+Vietnam,VNM,2019-2021,2019,2021,True,15.1,%,Estimated value
+Vietnam,VNM,2020-2022,2020,2022,True,15.4,%,Estimated value
+Vietnam,VNM,2021-2023,2021,2023,True,15.4,%,Estimated value

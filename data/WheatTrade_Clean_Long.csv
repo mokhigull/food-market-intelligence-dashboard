@@ -1,0 +1,177 @@
+Country,Element,Year,Quantity_tonnes,Flag
+Brazil,Import,2015,5170439.31,A
+Brazil,Export,2015,1778872.81,A
+Brazil,Import,2016,6866327.13,I
+Brazil,Export,2016,713313.31,A
+Brazil,Import,2017,6022226.0,A
+Brazil,Export,2017,617643.5,A
+Brazil,Import,2018,6817138.26,A
+Brazil,Export,2018,221248.64,A
+Brazil,Import,2019,6576301.69,A
+Brazil,Export,2019,563643.06,A
+Brazil,Import,2020,6159925.81,A
+Brazil,Export,2020,560878.5,A
+Brazil,Import,2021,6225072.82,A
+Brazil,Export,2021,1129348.65,A
+Brazil,Import,2022,5716592.14,A
+Brazil,Export,2022,3072779.16,A
+Brazil,Import,2023,4180827.4,A
+Brazil,Export,2023,2354625.26,A
+Brazil,Import,2024,6647605.93,A
+Brazil,Export,2024,2832373.31,A
+Egypt,Import,2015,10661421.71,X
+Egypt,Export,2015,13286.4,X
+Egypt,Import,2016,11138436.55,X
+Egypt,Export,2016,37613.03,X
+Egypt,Import,2017,12943418.13,I
+Egypt,Export,2017,1662.76,I
+Egypt,Import,2018,12144513.54,I
+Egypt,Export,2018,11954.35,I
+Egypt,Import,2019,10424423.36,I
+Egypt,Export,2019,2.34,A
+Egypt,Import,2020,8969215.42,I
+Egypt,Export,2020,8.26,I
+Egypt,Import,2021,6641408.73,I
+Egypt,Export,2021,5.61,I
+Egypt,Import,2022,8010426.68,I
+Egypt,Export,2022,0.87,A
+Egypt,Import,2023,8162036.72,I
+Egypt,Export,2023,2643.6,I
+Egypt,Import,2024,13095852.18,I
+Egypt,Export,2024,1313.46,I
+India,Import,2015,511915.59,A
+India,Export,2015,602899.72,A
+India,Import,2016,1910832.59,A
+India,Export,2016,198965.28,A
+India,Import,2017,5346726.88,A
+India,Export,2017,201956.14,A
+India,Import,2018,85342.98,A
+India,Export,2018,168314.88,A
+India,Import,2019,1665.86,A
+India,Export,2019,190058.07,A
+India,Import,2020,221.6,A
+India,Export,2020,928683.78,A
+India,Import,2021,56.66,A
+India,Export,2021,6090607.37,A
+India,Import,2022,49.56,A
+India,Export,2022,6798598.3,A
+India,Import,2023,85007.6,A
+India,Export,2023,157566.49,A
+India,Import,2024,116428.4,A
+India,Export,2024,72048.5,A
+Italy,Import,2015,7148350.66,A
+Italy,Export,2015,491296.99,A
+Italy,Import,2016,7652727.85,A
+Italy,Export,2016,454140.96,A
+Italy,Import,2017,7430203.52,A
+Italy,Export,2017,579565.43,A
+Italy,Import,2018,7453326.38,A
+Italy,Export,2018,186231.99,A
+Italy,Import,2019,7474381.12,A
+Italy,Export,2019,65678.57,A
+Italy,Import,2020,7994395.57,A
+Italy,Export,2020,61043.78,A
+Italy,Import,2021,7298487.91,A
+Italy,Export,2021,206908.59,A
+Italy,Import,2022,6916967.04,A
+Italy,Export,2022,338607.22,A
+Italy,Import,2023,8674613.22,A
+Italy,Export,2023,162086.37,A
+Italy,Import,2024,9407912.12,A
+Italy,Export,2024,139755.67,A
+Kenya,Import,2015,1438169.74,X
+Kenya,Import,2016,1362308.89,A
+Kenya,Export,2016,16221.05,A
+Kenya,Import,2017,1854953.71,A
+Kenya,Export,2017,15115.03,A
+Kenya,Import,2018,1736729.64,A
+Kenya,Export,2018,2738.18,A
+Kenya,Import,2019,1998802.17,A
+Kenya,Export,2019,5205.44,A
+Kenya,Import,2020,1882399.73,A
+Kenya,Export,2020,1039.27,A
+Kenya,Import,2021,1889865.42,A
+Kenya,Export,2021,1048.81,A
+Kenya,Import,2022,1676537.75,A
+Kenya,Export,2022,1520.85,A
+Kenya,Import,2023,2036933.44,A
+Kenya,Export,2023,19348.67,A
+Kenya,Import,2024,2315035.0,A
+Kenya,Export,2024,13477.0,A
+Nigeria,Import,2015,4391665.17,X
+Nigeria,Import,2016,4240714.83,X
+Nigeria,Import,2017,5574940.48,X
+Nigeria,Import,2018,4810411.5,X
+Nigeria,Export,2018,1.76,X
+Nigeria,Import,2019,4955039.05,X
+Nigeria,Export,2019,4.26,X
+Nigeria,Import,2020,5902528.11,X
+Nigeria,Export,2020,24.44,X
+Nigeria,Import,2021,6369865.91,X
+Nigeria,Export,2021,5.28,X
+Nigeria,Import,2022,4915825.51,X
+Nigeria,Export,2022,4509.99,X
+Nigeria,Import,2023,4725100.42,X
+Nigeria,Export,2023,20.54,I
+Nigeria,Import,2024,4967585.26,X
+Nigeria,Export,2024,78.22,X
+United States,Import,2015,2483769.5,A
+United States,Export,2015,21268695.76,A
+United States,Import,2016,2210889.36,A
+United States,Export,2016,24041585.88,A
+United States,Import,2017,2812826.12,A
+United States,Export,2017,27299214.37,A
+United States,Import,2018,3136160.61,A
+United States,Export,2018,22499005.58,A
+United States,Import,2019,1836134.4,A
+United States,Export,2019,27068607.39,A
+United States,Import,2020,1909894.95,A
+United States,Export,2020,26131625.6,A
+United States,Import,2021,1450818.24,A
+United States,Export,2021,24014160.15,A
+United States,Import,2022,1677097.86,A
+United States,Export,2022,20917589.34,A
+United States,Import,2023,2471089.42,A
+United States,Export,2023,17942310.41,A
+United States,Import,2024,2428708.62,A
+United States,Export,2024,21803348.98,A
+Uzbekistan,Import,2015,1322841.57,X
+Uzbekistan,Export,2015,200000.0,E
+Uzbekistan,Import,2016,1686093.66,X
+Uzbekistan,Export,2016,200000.0,E
+Uzbekistan,Import,2017,1476037.34,A
+Uzbekistan,Export,2017,277899.07,A
+Uzbekistan,Import,2018,2250321.22,A
+Uzbekistan,Export,2018,107038.7,A
+Uzbekistan,Import,2019,2185968.82,A
+Uzbekistan,Export,2019,104314.2,A
+Uzbekistan,Import,2020,2799620.76,A
+Uzbekistan,Export,2020,48211.7,A
+Uzbekistan,Import,2021,2509370.98,I
+Uzbekistan,Export,2021,25192.93,I
+Uzbekistan,Import,2022,2792062.6,A
+Uzbekistan,Export,2022,8030.21,A
+Uzbekistan,Import,2023,3316499.22,A
+Uzbekistan,Export,2023,34852.46,A
+Uzbekistan,Import,2024,4922040.31,A
+Uzbekistan,Export,2024,23362.39,A
+Vietnam,Import,2015,2246102.42,A
+Vietnam,Export,2015,14856.71,A
+Vietnam,Import,2016,4743794.85,A
+Vietnam,Export,2016,29484.79,A
+Vietnam,Import,2017,4663827.3,A
+Vietnam,Export,2017,32855.2,A
+Vietnam,Import,2018,5158196.21,I
+Vietnam,Export,2018,34431.5,I
+Vietnam,Import,2019,2760119.92,A
+Vietnam,Export,2019,32057.03,I
+Vietnam,Import,2020,3147629.0,A
+Vietnam,Export,2020,39472.75,I
+Vietnam,Import,2021,4698868.31,A
+Vietnam,Export,2021,35625.36,I
+Vietnam,Import,2022,3919009.68,A
+Vietnam,Export,2022,26798.21,I
+Vietnam,Import,2023,4877301.0,A
+Vietnam,Export,2023,60419.13,I
+Vietnam,Import,2024,4916718.0,A
+Vietnam,Export,2024,4030.54,X
